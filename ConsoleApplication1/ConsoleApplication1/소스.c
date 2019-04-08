@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-	printf("hello server\n");
+	printf("hello merge\n");
 	return 0;
 }
