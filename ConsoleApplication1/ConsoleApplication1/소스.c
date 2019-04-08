@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-	printf("hello merge\n");
+	printf("hello pull\n");
 	return 0;
 }
