@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-	printf("hello local\n");
+	printf("hello server\n");
 	return 0;
 }
